@@ -1,2 +1,2 @@
 # BINGO
-Anottations for the BINGO Radiotelescope Project
+Anotations for the BINGO Radiotelescope Project
